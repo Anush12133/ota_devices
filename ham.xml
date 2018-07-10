@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Atomic-OS</RomName>
-<VersionName>Atomic-OS-PLASMA-2.4-ham-20180430-0640.zip</VersionName>
+<VersionName>Atomic-OS-PLASMA-2.5-ham-20180710-1446.zip</VersionName>
 <VersionNumber type="integer">20180430</VersionNumber>
 <DirectUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/ham/]]></DirectUrl>
 <HttpUrl><![CDATA[https://sourceforge.net/projects/teamdarkness/files/Atomic-OS/ham/]]></HttpUrl>
@@ -14,7 +14,7 @@
 <DonateURL><![CDATA[https://paypal.me/AbhishekAk]]></DonateURL>
 <Changelog>
 <![CDATA[
-So we're moving on to 2.4 beta for Atomic now.
+So we're moving on to 2.5 for Atomic now.
 Here's a pretty generic changelog :
 - Added navigation bar tile
 - Various fixes for clock and date customisations
@@ -58,6 +58,7 @@ Device Specific Changes:-
 - HDR freeze fixed n image processing speed improved
 -Many more surprise 
 - NeuralNetworks HAL added.
+Based On GRMB V4.4.3
 ]]>
 </Changelog>
 </ROM>
